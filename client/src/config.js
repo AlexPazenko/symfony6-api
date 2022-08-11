@@ -1,0 +1,1 @@
+export const baseURL = 'http://symfony6-api.loc';
